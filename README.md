@@ -42,4 +42,4 @@ Each record in `corpus.jsonl` contains a `source_file` identifier and an ordered
 
 If you use this dataset, please cite:
 
-> He, Y., Wu, M., Deng, S., & Zhang, Y. (2026). *Claim-normalized citation verification (CNCV)* [Data set]. GitHub. https://github.com/IntelligentBibliometrics/CNCV
+> He, Y., Wu, M., Deng, S., & Zhang, Y. (2026). *Claim-normalized citation verification (CNCV)* [Data set]. GitHub. https://github.com/IntelligentBibliometrics/CNCV 
