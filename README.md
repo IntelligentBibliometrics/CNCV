@@ -38,14 +38,8 @@ Each record in `corpus.jsonl` contains a `source_file` identifier and an ordered
 | `MISREPORTED` | 2 | Major error |
 | `CONTRADICTED` | 2 | Major error |
 
-## Loading the data
+## Citation
 
-```python
-import json
+If you use this dataset, please cite:
 
-with open("TRAIN.jsonl", encoding="utf-8") as file:
-    train = [json.loads(line) for line in file if line.strip()]
-
-print(len(train))
-print(train[0])
-```
+> He, Y., Wu, M., Deng, S., & Zhang, Y. (2026). *Claim-normalized citation verification (CNCV)* [Data set]. GitHub. https://github.com/IntelligentBibliometrics/CNCV
